@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shekel Community | Official supporters website</title>
+    <link>https://shekelcommunity.netlify.com/</link>
+    <description>Recent content on Shekel Community | Official supporters website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jun 2018 11:12:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://shekelcommunity.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mnhost.io made masternodes deploy easy</title>
+      <link>https://shekelcommunity.netlify.com/blog/new-masternodes-deploy-service/</link>
+      <pubDate>Sat, 02 Jun 2018 11:12:24 +0200</pubDate>
+      
+      <guid>https://shekelcommunity.netlify.com/blog/new-masternodes-deploy-service/</guid>
+      <description>The platform enables everyone to launch a masternode without linux or programming knowledge. The mnhost.io platform automatically creates and configures the masternode server for you in the background. At certain points you are asked for input that links your wallet to the masternode server.
+Each masternode server you launch costs ~$0.3 per day paid in JEW, which is 50% lower then other platforms.
+Open following link to check it out and deploy your first masternode: https://mnhost.</description>
+    </item>
+    
+    <item>
+      <title>Governance is here</title>
+      <link>https://shekelcommunity.netlify.com/blog/governance-is-here/</link>
+      <pubDate>Fri, 25 May 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://shekelcommunity.netlify.com/blog/governance-is-here/</guid>
+      <description>We have recently made the adjustments to our codebase over the last week which will allow us to participate in Governance on the Shekel Network. The updates do require you to update your wallets and masternodes to v1.4.0 — this is being written as a guide to upgrade your wallets by June 15th!
+Read more about Wallet update: https://medium.com/@shekel/governance-is-here-mandatory-wallet-update-shekel-v1-4-0-ac385c9cc56a</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shekelcommunity.netlify.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shekelcommunity.netlify.com/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

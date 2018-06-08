@@ -1,5 +1,5 @@
 title = "Shekel Community | Official supporters website"
-baseURL = "https://shekelcommunity.netlify.com"
+baseURL = "https://shekelcommunity.netlify.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
