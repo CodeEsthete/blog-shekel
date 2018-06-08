@@ -1,0 +1,45 @@
+enable: true
+title: Shekel advantages
+subtitle: >
+  The Shekel is capable of making higher transaction volume than its counterpart - Bitcoin. Merchants get faster confirmation times, while still having ability to wait for more confirmations when selling more priced items
+content:
+
+  - icon: ion-coffee
+    name: Community
+    text: >
+      Connect with our active community via Twitter, BitcoinTalk, Telegram, Discord, and more!
+
+  - icon: ion-compass
+    name: Open Source
+    text: >
+      Project released under the open source license which gives you the power to modify.
+
+  - icon: ion-image
+    name: Activity
+    text: >
+      Shekel has a highly active, accessible and responsive development team.
+
+  - icon: ion-bug
+    name: Proof of Stake
+    text: >
+      Shekel uses Blackcoin’s improved Proof of Stake 3.0 protocol instead of Proof of Work
+
+  - icon: ion-headphone
+    name: Atomic swaps
+    text: >
+      Shekel has advanced code which can support Lightning Network and Atomic Swap 
+
+  - icon: ion-leaf
+    name: Low fees
+    text: >
+      Shekel has incredibly low transaction fees that are typically a fraction of a penny due to the PoS efficiency.
+
+  - icon: ion-planet
+    name: No ICO
+    text: >
+      We have built from the ground up and made it here with no presale or initial investments from investors.
+
+  - icon: ion-earth
+    name: Profitabbility
+    text: >
+      Shekel has had consistently higher profitability percentage compared to other digital currencies

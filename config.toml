@@ -1,0 +1,93 @@
+title = "Shekel Community | Official supporters website"
+baseURL = "https://shekelcommunity.netlify.com"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+[menu]
+
+[[menu.header]]
+    weight = 1
+    name = "Official Website"
+    url = "http://shekel.io"
+  [[menu.header]]
+    weight = 2
+    name = "Blog"
+    url = "/blog"
+  [[menu.header]]
+    weight = 4
+    name = "Download wallet"
+    url = "https://github.com/shekeltechnologies/JewNew/releases"
+  [[menu.header]]
+    weight = 4
+    name = "Buy Shekel"
+    url = "https://wallet.crypto-bridge.org/market/BRIDGE.JEW_BRIDGE.BTC"
+  [[menu.header]]
+    weight = 5
+    name = "Contact"
+    url = "/contact"
+    
+  [[menu.footer]]
+    weight = 3
+    name = "Masternodes"
+    url = "http://shekel.mn.zone"
+    hrefTargetBlank = true
+  [[menu.footer]]
+    weight = 2
+    name = "Chain explorer"
+    url = "http://shekelchain.com/"
+  [[menu.footer]]
+    weight = 3
+    name = "White paper"
+    url = "https://shekel.io/ShekelWhitepaper.pdf"
+  [[menu.footer]]
+    weight = 4
+    name = "Blog"
+    url = "#"
+  [[menu.footer]]
+    weight = 5
+    name = "Resources"
+    url = "https://shekel.io/resources.html"
+
+# The site's parameters
+[params]
+
+  date_format = "6 January 2006"
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "Shekel Community"
+    subtitle = "Shekel network provides humanity's wealth for the century."
+
+  [params.wrapper]
+    enable = true
+    title = "About Shekel"
+    italic = "Shekel is a peer-to-peer Internet currency that enables fast, zero cost payments to anyone in the world. Shekel is global payment network, fully decentralized."
+    paragraph = "Mathematics secures the network and allow individuals to control their finances. Shekel features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With industry support, volume and liquidity, Shekel is a proven medium of commerce."
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest Updates On What We're Doing"
+    subtitle = "Shekel is an open source peer-to-peer cryptocurrency which focuses on privacy behind commerce"
+
+  [params.feature]
+    enable = true
+    title = "Power of masternodes"
+    content = "Masternode is simply a cryptocurrency full node or computer wallet that keeps the full copy of the blockchain in real-time, just like your have Bitcoin full nodes and is always up & running. These are incentivized nodes that receive rewards based on their availability and their ability to offer network services in a decentralized and trust-less manner. These masternodes are not standalone but they are always communicating with other such nodes to make a decentralized network and are often referred in short form as MN."
+
+  [params.call]
+    enable = true
+    title = "Shekel is an open source peer-to-peer cryptocurrency"
+    paragraph = "Read more about what we do, our philosophy, our ideas and new products."
+
+  [params.contact]
+    enable = true
+    title = "Contact Shekel Community team"
+    subtitle = "Please complete the form and we will contact you soon."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
